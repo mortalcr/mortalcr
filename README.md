@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mortalcr" alt="mortalcr" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/_MortalX" target="blank"><img src="https://img.shields.io/twitter/follow/_mortal_?logo=twitter&style=for-the-badge" alt="_MortalX" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_MortalX" target="blank"><img src="https://img.shields.io/twitter/follow/_MortalX?logo=twitter&style=for-the-badge" alt="_MortalX" /></a> </p>
 
 - 🌱 I’m currently learning **Golang, DataBases**
 
